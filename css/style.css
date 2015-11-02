@@ -1,0 +1,44 @@
+body {
+	text-align: center;
+	font-family: 'Martel', serif;
+}
+
+.intro-text h1 {
+	color: white;
+	font-family: 'Asul', sans-serif;
+}
+
+p {
+	line-height: 1.6;
+	color: white;
+}
+
+.quotebox p {
+	margin: 10px 0;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.background-image {
+	/*background: url('../img/pool_table.png') repeat center fixed;*/
+	background: url('../img/tyrion.jpg') no-repeat center fixed;
+	background-size: cover;
+	height: 730px;
+}
+
+/*Temporary*/
+
+.grey {
+	background-color: grey;
+}
+
+.light {
+	background-color: lightgrey;
+}
+
+.dark {
+	background-color: darkgrey;
+}
