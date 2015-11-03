@@ -18,7 +18,7 @@ var quotes = [
   { 'author': '- Jon Snow', 'quote': 'I want to fight for the side that fights for the living.', 'img': 'http://p1.pichost.me/i/70/1945446.jpg'},
 	{ 'author': '- Joffrey Baratheon', 'quote': 'I&#39ll give him a red smile. From ear to ear. ', 'img': 'http://staticpopopics.popopics.com/uploads/original/hbo-drama-game-of-thrones-season-3-hd-characters-wallpaper-1600x1200-08-01.jpg'},
 	{ 'author': '- Cersei Baratheon', 'quote': 'Whenever you play the game of thrones, you win or you die...', 'img': 'http://www.moviedeskback.com/wp-content/uploads/2013/03/Game-of-Thrones-season-3-wallpaper-Cersei.jpg'},
-	{ 'author': '- Sansa Stark', 'quote': 'My skin has turned to to porcelein, to ivory, to steel.', 'img': 'http://www.moviemarkers.net/wp-content/uploads/2013/03/got-s3-sansa-wallpaper-1600.jpg'},
+	{ 'author': '- Sansa Stark', 'quote': 'My skin has turned to porcelein, to ivory, to steel.', 'img': 'http://www.moviemarkers.net/wp-content/uploads/2013/03/got-s3-sansa-wallpaper-1600.jpg'},
 	{ 'author': '- Jamie Lannister', 'quote': 'Tell me, if I stabbed the Mad King in the belly instead of the back, would you admire me more?', 'img': 'http://www.gameofthroneswallpaper.net/wp-content/uploads/2014/07/Jamie-Lannister-Game-of-Thrones.jpg'},
 	{ 'author': '- Robb Stark', 'quote': 'Tell Lord Tywin winter is coming for him. Twenty thousand northerners marching south to find out if he really does shit gold.', 'img': 'http://vignette2.wikia.nocookie.net/gameofthrones/images/1/1b/HBO-drama-Game-of-Thrones-Season-3-HD-characters-wallpaper-1600x1200-09.jpg/revision/latest?cb=20130603061845'}
 ];
