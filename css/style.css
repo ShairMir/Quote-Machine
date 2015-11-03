@@ -1,6 +1,11 @@
 body {
 	text-align: center;
 	font-family: 'Martel', serif;
+	background-color: black;
+}
+
+.container {
+	margin: 0 60px;
 }
 
 .intro-text h1 {
@@ -8,37 +13,25 @@ body {
 	font-family: 'Asul', sans-serif;
 }
 
-p {
+.quote,
+.writer {
 	line-height: 1.6;
 	color: white;
 }
 
+.writer {
+	font-style: italic;
+	font-weight: 400;
+}
+
 .quotebox p {
-	margin: 10px 0;
+	margin: 20px 0;
 }
 
-.col-centered{
-    float: none;
-    margin: 0 auto;
+.intro-text {
+	padding-top: 200px;
 }
 
-.background-image {
-	/*background: url('../img/pool_table.png') repeat center fixed;*/
-	background: url('../img/tyrion.jpg') no-repeat center fixed;
-	background-size: cover;
-	height: 730px;
-}
-
-/*Temporary*/
-
-.grey {
-	background-color: grey;
-}
-
-.light {
-	background-color: lightgrey;
-}
-
-.dark {
-	background-color: darkgrey;
+img {
+	width: 130%;
 }
