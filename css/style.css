@@ -35,3 +35,60 @@ body {
 img {
 	width: 130%;
 }
+
+/******** Media Queries **********/
+
+/* Device-width smaller than 767px */
+
+@media(max-width:767px){
+
+	.container {
+		margin: 0;
+	}
+
+	.intro-text {
+		padding-top: 0;
+	}
+
+	.quotebox {
+		padding: 0 40px;
+	}
+
+	img {
+		width: 100%;
+		margin-top: 5px;
+	}
+
+
+
+/* Device-width between 767px and 992px */
+
+@media(min-width:768px){
+	
+	.container {
+		margin: 0px;
+	}
+
+	.intro-text {
+		padding-top: 0px;
+	}
+
+	img {
+		width: 100%;
+		margin-top: 5px;
+	}
+
+}
+
+@media(min-width:992px){}
+
+	div.intro-text {
+		padding-top: 0;
+	}
+
+	img {
+		width: 100%;
+		margin-top: 5px;
+	}
+
+@media(min-width:1200px){}
