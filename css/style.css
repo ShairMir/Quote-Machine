@@ -43,7 +43,7 @@ img {
 @media(max-width:767px){
 
 	.container {
-		margin: 0;
+		margin: 0;	
 	}
 
 	.intro-text {
@@ -60,17 +60,16 @@ img {
 	}
 }
 
-
 /* Device-width between 767px and 992px */
 
 @media(min-width:768px){
-	
-	.container {
-		margin: 0px;
-	}
 
 	.intro-text {
-		padding-top: 0px;
+		padding-top: 0;
+	}
+
+	.quotebox {
+		padding: 0 40px;
 	}
 
 	img {
@@ -81,8 +80,12 @@ img {
 
 @media(min-width:992px){
 
-	div.intro-text {
+	.intro-text {
 		padding-top: 0;
+	}
+
+	.quotebox {
+		padding: 0 200px;
 	}
 
 	img {
@@ -93,6 +96,22 @@ img {
 
 @media(min-width:1200px){
 
+	.quotebox {
+		padding: 0 40px;
+	}
+
+	img {
+		width: 130%;
+		margin-top: 5px;
+	}
+
+}
+@media(min-width:1200px){
+  
+  div.intro-text {
+		padding-top: 200px;
+	}
+  
 	img {
 		width: 130%;
 		margin-top: 5px;
