@@ -85,7 +85,7 @@ img {
 	}
 
 	.quotebox {
-		padding: 0 40px;
+		padding: 0 200px;
 	}
 
 	img {
@@ -96,21 +96,25 @@ img {
 
 @media(min-width:1200px){
 
+	.quotebox {
+		padding: 0 40px;
+	}
+
 	img {
 		width: 130%;
 		margin-top: 5px;
 	}
 
 }
-
 @media(min-width:1200px){
-
-	.intro-text {
+  
+  div.intro-text {
 		padding-top: 200px;
 	}
-
+  
 	img {
-		width: 120%;
+		width: 130%;
 		margin-top: 5px;
 	}
+
 }
