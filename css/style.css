@@ -95,20 +95,12 @@ img {
 }
 
 @media(min-width:1200px){
-
-	.quotebox {
+  	
+  	.quotebox {
 		padding: 0 40px;
 	}
 
-	img {
-		width: 130%;
-		margin-top: 5px;
-	}
-
-}
-@media(min-width:1200px){
-  
-  div.intro-text {
+  	div.intro-text {
 		padding-top: 200px;
 	}
   
