@@ -58,7 +58,6 @@ img {
 		width: 100%;
 		margin-top: 5px;
 	}
-
 }
 
 /* Device-width between 767px and 992px */
@@ -77,7 +76,6 @@ img {
 		width: 100%;
 		margin-top: 5px;
 	}
-
 }
 
 @media(min-width:992px){
@@ -92,6 +90,14 @@ img {
 
 	img {
 		width: 100%;
+		margin-top: 5px;
+	}
+}
+
+@media(min-width:1200px){
+
+	img {
+		width: 130%;
 		margin-top: 5px;
 	}
 
